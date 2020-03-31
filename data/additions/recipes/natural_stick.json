@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "additions:bettersticks",
+  "ingredients": [
+	{
+      "item": "minecraft:string"
+    },
+    {
+      "item": "minecraft:stick"
+    },
+	{
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bamboo",
+    "count": 1
+  }
+}

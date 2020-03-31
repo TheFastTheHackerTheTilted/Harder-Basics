@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+	{
+      "tag": "minecraft:planks"
+    },
+    {
+      "tag": "additions:axes"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stick",
+    "count": 8
+  }
+}
